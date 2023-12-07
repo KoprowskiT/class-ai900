@@ -11,12 +11,10 @@ You can use Azure AI Fundamentals to prepare for other Azure role-based certific
 
 
 ## Reference books
-- Microsoft 365 Certified Fundamentals MS-900 Exam Guide: Understand the Microsoft 365 platform from concept to execution and pass the MS-900 exam with confidence, 2nd Edition
-  - Pact Publishing
-  - [available to buy at amazon](https://amzn.to/40IYfLy)
-- Exam Ref MS-900 Microsoft 365 Fundamentals Paperback – 7 July 2024
-  - Microsoft Press
-  - [available to buy at amazon](https://amzn.to/3sFUFW0)
+- M
+  - P
+  - [
+
 
 
 ## Test your knowledge
