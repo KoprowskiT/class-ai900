@@ -1,4 +1,4 @@
-# Official page for Microsoft Artificial Intelligence Fundamentals [HERE](https://bit.ly/AI900MSLearn) describe exam as:
+# Official page for Microsoft Artificial Intelligence Fundamentals [HERE](https://bit.ly/AI900MSLearn) describe the exam as:
 
 This exam is an opportunity for you to demonstrate knowledge of machine learning and AI concepts and related Microsoft Azure services. As a candidate for this exam, you should be familiar with Exam AI-900’s self-paced or instructor-led learning material.
 
@@ -11,10 +11,9 @@ You can use Azure AI Fundamentals to prepare for other Azure role-based certific
 
 
 ## Reference books
-- M
-  - P
-  - [
-
+- Exam Ref AI-900 Microsoft Azure AI Fundamentals
+  - Microsoft Press 
+  - [available to buy at ms press](https://bit.ly/3t1jigc)
 
 
 ## Test your knowledge
